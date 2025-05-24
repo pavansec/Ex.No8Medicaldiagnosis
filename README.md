@@ -1,0 +1,1 @@
+# Ex.No8Medicaldiagnosis
